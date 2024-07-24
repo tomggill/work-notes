@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d246bde25f628674","type":"text","text":"## Today To-Do List\n - [ ] Check cross charge Payment should be at the very start of the month, and cross charge plantations should be at the very end.\n - [ ] Ask what Jack Owens bot management thing is for my protein\n- [ ] When running update query on UAT, screenshot examples of before and after.\n- [ ] Fix the duplicate transaction ID `pi_3MU6nEI5Mb8qm6JK18C8AhpS`.\n- [ ] configure your IDE to insert new line at end of file","x":-1500,"y":-1720,"width":320,"height":520,"color":"2"},
+		{"id":"24335b80ec4102f6","type":"text","text":"## 1-to-1\n - [[Topics To Discuss]]\n - Data migration requires building **ETL pipelines**\n- Separate the data model tables by business capability (user, service, project, notification).\n- Document key design decisions.","x":-1140,"y":-1720,"width":320,"height":520,"color":"4"},
+		{"id":"a0a4d6e9ed6c2e9a","type":"text","text":"## Personal To-Do List\n - [x] Need to create a list of:\n\t - [x] What smart goals have been done.\n\t - [x] What lessons have been learned.\n\t - [x] Why are these beneficial / applicable to the team.","x":-1140,"y":-1160,"width":320,"height":520,"color":"3"},
+		{"id":"d06212a862c8446f","type":"text","text":"## Long-Term To-Do List\n - ","x":-1500,"y":-1160,"width":320,"height":520,"color":"#eca14b"},
+		{"id":"55c7b31a8ad2a79a","type":"text","text":"## 1-to-1\n- Deliverables\n\t- A list of what I've delivered / achieved.\n\t- Release in February\n- Behaviour\n- What I can improve on\n- Why haven't I taken the point higher.\n- What could I have done better\n- Example for each, demonstrating where I showed those traits.","x":-760,"y":-1720,"width":320,"height":520,"color":"4"},
+		{"id":"30589f8560c7fc51","type":"text","text":"## Payment Methods\n- Dev:\n\t- Normal payment - `pm_1PfLZ3DoOOa4KtZhujy9NHpI`\n\t- 3DS payment - `pm_1PfMRkDoOOa4KtZhCFrpNsF7`","x":-760,"y":-1160,"width":320,"height":520,"color":"3"}
+	],
+	"edges":[]
+}

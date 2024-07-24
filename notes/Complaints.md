@@ -1,0 +1,4 @@
+- Called `negative all week` by Jack King - He apologised for the outburst - `2024-07-03`.
+- Spoken to disrespectfully during standup.
+- The complaint about me not being in the office once a month is not warranted and unfair given the commute time I have. My commute is at minimum 3 times as long. So even if I come in twice a month, I still put in more commute time. - `2024-07-16`.
+- Jack Owen critiquing in an aggressive way which makes me feel like an idiot. - `2024-07-16`

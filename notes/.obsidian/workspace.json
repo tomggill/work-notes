@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "40bb584c3c3fcdfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa40b359e62df64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c95f4921571c8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/07-July/2024-07-24-Wednesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7e4f53eb0a0e439",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9e2c7520405c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad9714486824733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e459dd2a1f234a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ToDo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "875fe56cd332ba5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a336a38dc4ff118",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca40fbd04daac30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7349fc33db987e9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2024/07-July/2024-07-24-Wednesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a6738fe90f261f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2024/07-July/2024-07-24-Wednesday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fe386d3f24a54c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "749d618ad6b5c525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2024/07-July/2024-07-24-Wednesday.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7c95f4921571c8d8",
+  "lastOpenFiles": [
+    "Journal/2024/07-July/2024-07-05-Friday.md",
+    "Journal/2024/07-July/2024-07-24-Wednesday.md",
+    "Dashboard.canvas",
+    "Journal/2024/07-July/2024-07-23-Tuesday.md",
+    "THANK YOU.pdf",
+    "Journal/2024/07-July/2024-07-22-Monday.md",
+    "General/Performance Review/2024/2024 H1 Self Assessment 2.md",
+    "General/Performance Review/2024/2024 H1 Self Assessment.md",
+    "General/Performance Review/2024/2024 H1 SMART Goals.md",
+    "Journal/2024/07-July/2024-07-19-Friday.md",
+    "Journal/2024/07-July/2024-07-17-Wednesday.md",
+    "Complaints.md",
+    "General/1-to-1s/Topics To Discuss.md",
+    "General/Performance Review/2024",
+    "Journal/2024/07-July/2024-07-16-Tuesday.md",
+    "Journal/2024/07-July/2024-07-18-Thursday.md",
+    "General/1-to-1s/Outcome/2024-07-18.md",
+    "Coding Interview Practice/neetcode.io",
+    "Coding Interview Practice/Untitled.md",
+    "General/Sprint Demo/2024-07-16.md",
+    "General/1-to-1s/Outcome/2024-07-10.md",
+    "General/1-to-1s/Outcome/2024-07-16.md",
+    "Untitled",
+    "Journal/2024/07-July/2024-07-08-Monday.md",
+    "Journal/2024/07-July/2024-07-12-Friday.md",
+    "Journal/2024/07-July/2024-07-15-Monday.md",
+    "Journal/2024/07-July/2024-07-11-Thursday.md",
+    "Journal/2024/07-July/2024-07-09-Tuesday.md",
+    "Journal/2024/07-July/2024-07-10-Wednesday.md",
+    "Coding Interview Practice/Data Structures & Algorithms",
+    "Coding Interview Practice",
+    "General/Sprint Demo",
+    "().md",
+    "General/Performance Review",
+    "General/1-to-1s/Outcome",
+    "General/1-to-1s",
+    "Dashboard/Untitled.canvas"
+  ]
+}
